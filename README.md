@@ -1,7 +1,5 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <RedTailBoaCare
+
+        RedTailBoaCare
         <h2 style="font-style: italic;font-size: larger;font-weight: bold;">Red Tail Boa Care Sheet!</h2>
         </head>
         <body>
@@ -14,7 +12,7 @@
                 <li>You must <mark>clean</mark> your boa's enclosure at least once a month.</li>
                 <li>MUST have humidity between <mark>60 to 80%</mark></li>
             </ol>
-            <img src="redtailboapicture1.jpg"alt="redtailboa" width="100px" height="100px">
+            
             <p style="font-size: medium; font-style:italic;font-weight: bold;">Are you in search of a captivating and unique pet that will leave your friends and family in awe? Look no further than the Red Tail Boas! These stunning constrictors are highly sought after by reptile enthusiasts for their striking red tail markings and availability in a range of color morphs.
 
                 Not only are they visually stunning, but they also make great pets for those who are experienced with reptiles. In this article, we will explore everything you need to know about caring for a Red Tail Boa, from their diet and habitat requirements to their health considerations.
